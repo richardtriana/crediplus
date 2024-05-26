@@ -1,0 +1,16 @@
+/node_modules
+/storage/*.key
+/vendor
+/public/js/app.js
+.env
+.env.backup
+.env.dev
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+/public/storage
